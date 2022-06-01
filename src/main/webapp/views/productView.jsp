@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Book Data</h2>
-Book Id: ${book.bookId} <br/>
-Book Name: ${book.bookName} <br/>
-Book Price: ${book.bookPrice}
+<h1>${msg}</h1>
 </body>
 </html>

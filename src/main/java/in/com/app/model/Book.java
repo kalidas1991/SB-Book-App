@@ -11,5 +11,5 @@ public class Book {
 	
 	private Integer bookId;
 	private String bookName;
-	private double price;
+	private double bookPrice;
 }
